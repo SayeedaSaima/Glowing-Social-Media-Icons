@@ -1,0 +1,47 @@
+/*most of the galaxy fold mobile device code goes here*/
+
+@media (min-width: 279px) and (max-width:319px)
+{
+/*css strt*/
+ul li{
+	font-size: 15px;
+	height: 35px;
+	width: 35px;
+	line-height: 35px;
+	border-radius: 50%;
+	margin: 0 8px;
+}
+/*css end*/
+}
+
+/*most of the smart phone or mobile device code goes here*/
+
+@media (min-width: 320px) and (max-width:480px)
+{
+/*css strt*/
+ul li{
+	font-size: 20px;
+	height: 40px;
+	width: 40px;
+	line-height: 40px;
+	border-radius: 50%;
+	margin: 0 10px;
+}
+/*css end*/
+}
+
+/*most of the high.r mobile or low.r tab code goes here*/
+
+@media (min-width: 481px) and (max-width:767px)
+{
+/*css strt*/
+ul li{
+	font-size: 20px;
+	height: 40px;
+	width: 40px;
+	line-height: 40px;
+	border-radius: 50%;
+	margin: 0 10px;
+}
+/*css end*/
+}
